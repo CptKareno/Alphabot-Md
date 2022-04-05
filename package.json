@@ -1,7 +1,7 @@
 {
-  "name": "Alphabot-Md",
+  "name": "CptKareno bot",
   "version": "9.0.0",
-  "description": "Alpha Bot Multi Device, Only update in YouTube ZEEONE OFC",
+  "description": "Bot ini dibuat oleh CptKareno",
   "main": "zeeone.js",
   "directories": {
     "lib": "lib"
@@ -19,7 +19,7 @@
     "baileys-md",
     "bot"
   ],
-  "author": "ZeeoneOfc",
+  "author": "CptKareno",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys-md": "github:adiwajshing/baileys#multi-device",
